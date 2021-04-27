@@ -1,0 +1,10 @@
+newmtl NoName_1
+Ka 0.300000 0.300000 0.300000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+d 1.000000
+illum 2
+Ns 0.000000
+map_Kd texEye.png
+
+# num_materials: 1
